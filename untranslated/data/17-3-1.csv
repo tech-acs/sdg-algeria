@@ -1,0 +1,62 @@
+Year,OBS_STATUS,UNIT_MULT,COMMENT_OBS,SOURCE_DETAIL,SERIES,REF_AREA,UNIT_MEASURE,DATA_LAST_UPDATE,TIME_DETAIL,Value
+2019,A,6,Gross disbursements. Data gaps linked to providers reporting grants to the OECD DAC (Creditor Reporting System) but not to TOSSD have been estimated (i.e. for Luxembourg 2020-2022 and the World Bank).,"TOSSD database, see www.tossd.online",DC_OSSD_GRT,12,USD,2025-03-12T00:00:00,2023,143.96332
+2020,A,6,Gross disbursements. Data gaps linked to providers reporting grants to the OECD DAC (Creditor Reporting System) but not to TOSSD have been estimated (i.e. for Luxembourg 2020-2022 and the World Bank).,"TOSSD database, see www.tossd.online",DC_OSSD_GRT,12,USD,2025-03-12T00:00:00,2023,136.68572
+2021,A,6,Gross disbursements. Data gaps linked to providers reporting grants to the OECD DAC (Creditor Reporting System) but not to TOSSD have been estimated (i.e. for Luxembourg 2020-2022 and the World Bank).,"TOSSD database, see www.tossd.online",DC_OSSD_GRT,12,USD,2025-03-12T00:00:00,2023,159.08241
+2022,A,6,Gross disbursements. Data gaps linked to providers reporting grants to the OECD DAC (Creditor Reporting System) but not to TOSSD have been estimated (i.e. for Luxembourg 2020-2022 and the World Bank).,"TOSSD database, see www.tossd.online",DC_OSSD_GRT,12,USD,2025-03-12T00:00:00,2023,156.4066
+2023,A,6,Gross disbursements. Data gaps linked to providers reporting grants to the OECD DAC (Creditor Reporting System) but not to TOSSD have been estimated (i.e. for Luxembourg 2020-2022 and the World Bank).,"TOSSD database, see www.tossd.online",DC_OSSD_GRT,12,USD,2025-03-12T00:00:00,2023,143.49534
+2016,A,6,"Measured on a commitment basis. Data gaps linked to providers reporting mobilised private finance to the OECD DAC (Creditor Reporting System) but not to TOSSD have been estimated (i.e. for Luxembourg, the European Bank for Reconstruction and Development and the World Bank).","TOSSD database, see www.tossd.online",DC_OSSD_MPF,12,USD,2025-03-12T00:00:00,2023,0.28364
+2017,A,6,"Measured on a commitment basis. Data gaps linked to providers reporting mobilised private finance to the OECD DAC (Creditor Reporting System) but not to TOSSD have been estimated (i.e. for Luxembourg, the European Bank for Reconstruction and Development and the World Bank).","TOSSD database, see www.tossd.online",DC_OSSD_MPF,12,USD,2025-03-12T00:00:00,2023,0.05636
+2018,A,6,"Measured on a commitment basis. Data gaps linked to providers reporting mobilised private finance to the OECD DAC (Creditor Reporting System) but not to TOSSD have been estimated (i.e. for Luxembourg, the European Bank for Reconstruction and Development and the World Bank).","TOSSD database, see www.tossd.online",DC_OSSD_MPF,12,USD,2025-03-12T00:00:00,2023,13.51473
+2021,A,6,"Measured on a commitment basis. Data gaps linked to providers reporting mobilised private finance to the OECD DAC (Creditor Reporting System) but not to TOSSD have been estimated (i.e. for Luxembourg, the European Bank for Reconstruction and Development and the World Bank).","TOSSD database, see www.tossd.online",DC_OSSD_MPF,12,USD,2025-03-12T00:00:00,2023,0.02747
+2022,A,6,"Measured on a commitment basis. Data gaps linked to providers reporting mobilised private finance to the OECD DAC (Creditor Reporting System) but not to TOSSD have been estimated (i.e. for Luxembourg, the European Bank for Reconstruction and Development and the World Bank).","TOSSD database, see www.tossd.online",DC_OSSD_MPF,12,USD,2025-03-12T00:00:00,2023,0.15548
+2023,A,6,"Measured on a commitment basis. Data gaps linked to providers reporting mobilised private finance to the OECD DAC (Creditor Reporting System) but not to TOSSD have been estimated (i.e. for Luxembourg, the European Bank for Reconstruction and Development and the World Bank).","TOSSD database, see www.tossd.online",DC_OSSD_MPF,12,USD,2025-03-12T00:00:00,2023,0.13396
+2019,A,6,Gross disbursements. Data gaps linked to providers reporting official concessional loans to the OECD DAC (Creditor Reporting System) but not to TOSSD have been estimated (i.e. for the World Bank).,"TOSSD database, see www.tossd.online",DC_OSSD_OFFCL,12,USD,2025-03-12T00:00:00,2023,0.0
+2020,A,6,Gross disbursements. Data gaps linked to providers reporting official concessional loans to the OECD DAC (Creditor Reporting System) but not to TOSSD have been estimated (i.e. for the World Bank).,"TOSSD database, see www.tossd.online",DC_OSSD_OFFCL,12,USD,2025-03-12T00:00:00,2023,0.0
+2021,A,6,Gross disbursements. Data gaps linked to providers reporting official concessional loans to the OECD DAC (Creditor Reporting System) but not to TOSSD have been estimated (i.e. for the World Bank).,"TOSSD database, see www.tossd.online",DC_OSSD_OFFCL,12,USD,2025-03-12T00:00:00,2023,0.0
+2022,A,6,Gross disbursements. Data gaps linked to providers reporting official concessional loans to the OECD DAC (Creditor Reporting System) but not to TOSSD have been estimated (i.e. for the World Bank).,"TOSSD database, see www.tossd.online",DC_OSSD_OFFCL,12,USD,2025-03-12T00:00:00,2023,0.0
+2023,A,6,Gross disbursements. Data gaps linked to providers reporting official concessional loans to the OECD DAC (Creditor Reporting System) but not to TOSSD have been estimated (i.e. for the World Bank).,"TOSSD database, see www.tossd.online",DC_OSSD_OFFCL,12,USD,2025-03-12T00:00:00,2023,0.0
+2019,A,6,Gross disbursements. Data gaps linked to providers reporting official concessional loans to the OECD DAC (Creditor Reporting System) but not to TOSSD have been estimated (i.e. for the World Bank).,"TOSSD database, see www.tossd.online",DC_OSSD_OFFNL,12,USD,2025-03-12T00:00:00,2023,1.36714
+2020,A,6,Gross disbursements. Data gaps linked to providers reporting official concessional loans to the OECD DAC (Creditor Reporting System) but not to TOSSD have been estimated (i.e. for the World Bank).,"TOSSD database, see www.tossd.online",DC_OSSD_OFFNL,12,USD,2025-03-12T00:00:00,2023,1.97899
+2021,A,6,Gross disbursements. Data gaps linked to providers reporting official concessional loans to the OECD DAC (Creditor Reporting System) but not to TOSSD have been estimated (i.e. for the World Bank).,"TOSSD database, see www.tossd.online",DC_OSSD_OFFNL,12,USD,2025-03-12T00:00:00,2023,0.0
+2022,A,6,Gross disbursements. Data gaps linked to providers reporting official concessional loans to the OECD DAC (Creditor Reporting System) but not to TOSSD have been estimated (i.e. for the World Bank).,"TOSSD database, see www.tossd.online",DC_OSSD_OFFNL,12,USD,2025-03-12T00:00:00,2023,0.0
+2023,A,6,Gross disbursements. Data gaps linked to providers reporting official concessional loans to the OECD DAC (Creditor Reporting System) but not to TOSSD have been estimated (i.e. for the World Bank).,"TOSSD database, see www.tossd.online",DC_OSSD_OFFNL,12,USD,2025-03-12T00:00:00,2023,0.0
+2017,A,6,Gross disbursements.,"TOSSD database, see www.tossd.online",DC_OSSD_PRVGRT,12,USD,2025-03-12T00:00:00,2022,0.0613
+2018,A,6,Gross disbursements.,"TOSSD database, see www.tossd.online",DC_OSSD_PRVGRT,12,USD,2025-03-12T00:00:00,2022,0.05
+2019,A,6,Gross disbursements.,"TOSSD database, see www.tossd.online",DC_OSSD_PRVGRT,12,USD,2025-03-12T00:00:00,2022,0.1225
+2020,A,6,Gross disbursements.,"TOSSD database, see www.tossd.online",DC_OSSD_PRVGRT,12,USD,2025-03-12T00:00:00,2022,0.23054
+2021,A,6,Gross disbursements.,"TOSSD database, see www.tossd.online",DC_OSSD_PRVGRT,12,USD,2025-03-12T00:00:00,2022,0.17
+2022,A,6,Gross disbursements.,"TOSSD database, see www.tossd.online",DC_OSSD_PRVGRT,12,USD,2025-03-12T00:00:00,2022,0.06
+1990,A,6,,UNCTAD,GF_FRN_FDI,12,USD,2025-03-27T00:00:00,2023,40.0
+1991,A,6,,UNCTAD,GF_FRN_FDI,12,USD,2025-03-27T00:00:00,2023,80.0
+1992,A,6,,UNCTAD,GF_FRN_FDI,12,USD,2025-03-27T00:00:00,2023,30.0
+1993,A,6,,UNCTAD,GF_FRN_FDI,12,USD,2025-03-27T00:00:00,2023,0.001
+1994,A,6,,UNCTAD,GF_FRN_FDI,12,USD,2025-03-27T00:00:00,2023,0.001
+1995,A,6,,UNCTAD,GF_FRN_FDI,12,USD,2025-03-27T00:00:00,2023,0.001
+1996,A,6,,UNCTAD,GF_FRN_FDI,12,USD,2025-03-27T00:00:00,2023,270.0
+1997,A,6,,UNCTAD,GF_FRN_FDI,12,USD,2025-03-27T00:00:00,2023,260.0
+1998,A,6,,UNCTAD,GF_FRN_FDI,12,USD,2025-03-27T00:00:00,2023,606.6
+1999,A,6,,UNCTAD,GF_FRN_FDI,12,USD,2025-03-27T00:00:00,2023,291.6
+2000,A,6,,UNCTAD,GF_FRN_FDI,12,USD,2025-03-27T00:00:00,2023,280.1
+2001,A,6,,UNCTAD,GF_FRN_FDI,12,USD,2025-03-27T00:00:00,2023,1113.10554
+2002,A,6,,UNCTAD,GF_FRN_FDI,12,USD,2025-03-27T00:00:00,2023,1064.96
+2003,A,6,,UNCTAD,GF_FRN_FDI,12,USD,2025-03-27T00:00:00,2023,637.85303
+2004,A,6,,UNCTAD,GF_FRN_FDI,12,USD,2025-03-27T00:00:00,2023,884.74903
+2005,A,6,,UNCTAD,GF_FRN_FDI,12,USD,2025-03-27T00:00:00,2023,1145.6177
+2006,A,6,,UNCTAD,GF_FRN_FDI,12,USD,2025-03-27T00:00:00,2023,1888.45621
+2007,A,6,,UNCTAD,GF_FRN_FDI,12,USD,2025-03-27T00:00:00,2023,1743.63093
+2008,A,6,,UNCTAD,GF_FRN_FDI,12,USD,2025-03-27T00:00:00,2023,2632.0478
+2009,A,6,,UNCTAD,GF_FRN_FDI,12,USD,2025-03-27T00:00:00,2023,2754.11889
+2010,A,6,,UNCTAD,GF_FRN_FDI,12,USD,2025-03-27T00:00:00,2023,2301.22592
+2011,A,6,,UNCTAD,GF_FRN_FDI,12,USD,2025-03-27T00:00:00,2023,2580.62641
+2012,A,6,,UNCTAD,GF_FRN_FDI,12,USD,2025-03-27T00:00:00,2023,1499.44685
+2013,A,6,,UNCTAD,GF_FRN_FDI,12,USD,2025-03-27T00:00:00,2023,1696.86675
+2014,A,6,,UNCTAD,GF_FRN_FDI,12,USD,2025-03-27T00:00:00,2023,1506.73344
+2015,A,6,,UNCTAD,GF_FRN_FDI,12,USD,2025-03-27T00:00:00,2023,-584.5392
+2016,A,6,,UNCTAD,GF_FRN_FDI,12,USD,2025-03-27T00:00:00,2023,1636.29924
+2017,A,6,,UNCTAD,GF_FRN_FDI,12,USD,2025-03-27T00:00:00,2023,1232.34192
+2018,A,6,,UNCTAD,GF_FRN_FDI,12,USD,2025-03-27T00:00:00,2023,1474.58907
+2019,A,6,,UNCTAD,GF_FRN_FDI,12,USD,2025-03-27T00:00:00,2023,1381.835
+2020,A,6,,UNCTAD,GF_FRN_FDI,12,USD,2025-03-27T00:00:00,2023,1139.724
+2021,A,6,,UNCTAD,GF_FRN_FDI,12,USD,2025-03-27T00:00:00,2023,869.6996
+2022,A,6,,UNCTAD,GF_FRN_FDI,12,USD,2025-03-27T00:00:00,2023,254.7369
+2023,A,6,,UNCTAD,GF_FRN_FDI,12,USD,2025-03-27T00:00:00,2023,1216.323

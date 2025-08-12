@@ -1,0 +1,7 @@
+Year,OBS_STATUS,UNIT_MULT,COMMENT_OBS,SOURCE_DETAIL,SERIES,REF_AREA,SEX,AGE,UNIT_MEASURE,DATA_LAST_UPDATE,TIME_DETAIL,Value
+2001,A,0,Data reference period: September,LFS - Household Employment Survey,IC_GEN_MGTL,12,F,Y_GE15,PT,2025-03-15T00:00:00,2017,5.24
+2003,A,0,Data reference period: September,LFS - Household Employment Survey,IC_GEN_MGTL,12,F,Y_GE15,PT,2025-03-15T00:00:00,2017,5.69
+2004,A,0,Data reference period: September,LFS - Household Employment Survey,IC_GEN_MGTL,12,F,Y_GE15,PT,2025-03-15T00:00:00,2017,4.87
+2013,A,0,Data reference period: September,LFS - Household Employment Survey,IC_GEN_MGTL,12,F,Y_GE15,PT,2025-03-15T00:00:00,2017,10.61
+2014,A,0,Data reference period: September,LFS - Household Employment Survey,IC_GEN_MGTL,12,F,Y_GE15,PT,2025-03-15T00:00:00,2017,9.89
+2017,A,0,Data reference period: September,LFS - Household Employment Survey,IC_GEN_MGTL,12,F,Y_GE15,PT,2025-03-15T00:00:00,2017,8.36

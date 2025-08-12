@@ -1,0 +1,4 @@
+Year,OBS_STATUS,UNIT_MULT,BASE_PER,COMMENT_OBS,SOURCE_DETAIL,SERIES,REF_AREA,UNIT_MEASURE,DATA_LAST_UPDATE,TIME_DETAIL,Value
+1988,A,0,2017,"Accessed September 19, 2024. Based on data from ENCNVM. Estimated from grouped consumption data.","Poverty and Inequality Portal, World Bank",SI_POV_DAY1,12,PT,2025-05-20T00:00:00,2011,6.4
+1995,A,0,2017,"Accessed September 19, 2024. Based on data from ENCNVM. Estimated from grouped consumption data.","Poverty and Inequality Portal, World Bank",SI_POV_DAY1,12,PT,2025-05-20T00:00:00,2011,6.1
+2011,A,0,2017,"Accessed September 19, 2024. Based on data from ENCNVM. Estimated from grouped consumption data.","Poverty and Inequality Portal, World Bank",SI_POV_DAY1,12,PT,2025-05-20T00:00:00,2011,0.0

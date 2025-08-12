@@ -1,0 +1,14 @@
+Year,OBS_STATUS,UNIT_MULT,SOURCE_DETAIL,SERIES,REF_AREA,SEX,AGE,UNIT_MEASURE,DATA_LAST_UPDATE,TIME_DETAIL,Value
+2021,A,0,ILO estimates based on national sources,SI_COV_BENFTS,12,None,None,PT,2025-03-15T00:00:00,2021,60.15
+2016,A,0,ILO estimates based on national sources,SI_COV_CHLD,12,None,Y0T14,PT,2025-03-15T00:00:00,2016,72.25
+2015,A,0,ILO estimates based on national sources,SI_COV_DISAB,12,None,None,PT,2025-03-15T00:00:00,2015,3.6
+2015,A,0,ILO estimates based on national sources,SI_COV_MATNL,12,F,Y15T49,PT,2025-03-15T00:00:00,2021,11.2
+2021,A,0,ILO estimates based on national sources,SI_COV_MATNL,12,F,Y15T49,PT,2025-03-15T00:00:00,2021,19.57
+2000,A,0,ILO estimates based on national sources,SI_COV_PENSN,12,None,Y_GE65,PT,2025-03-15T00:00:00,2021,50.0
+2010,A,0,ILO estimates based on national sources,SI_COV_PENSN,12,None,Y_GE65,PT,2025-03-15T00:00:00,2021,63.6
+2021,A,0,ILO estimates based on national sources,SI_COV_PENSN,12,None,Y_GE65,PT,2025-03-15T00:00:00,2021,88.55
+2000,A,0,ILO estimates based on national sources,SI_COV_UEMP,12,None,Y_GE15,PT,2025-03-15T00:00:00,2020,7.3
+2003,A,0,ILO estimates based on national sources,SI_COV_UEMP,12,None,Y_GE15,PT,2025-03-15T00:00:00,2020,8.8
+2020,A,0,ILO estimates based on national sources,SI_COV_UEMP,12,None,Y_GE15,PT,2025-03-15T00:00:00,2020,13.07
+2016,A,0,ILO estimates based on national sources,SI_COV_VULN,12,None,None,PT,2025-03-15T00:00:00,2016,30.44
+2019,A,0,ILO estimates based on national sources,SI_COV_WKINJRY,12,None,Y_GE15,PT,2025-03-15T00:00:00,2019,53.8

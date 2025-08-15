@@ -39,7 +39,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "2017",
+                "2021",
                 ""
               ]
             }
@@ -49,7 +49,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Accessed September 19, 2024. Based on data from ENCNVM. Estimated from grouped consumption data.",
+                "Accessed June 5, 2025. Based on data from ENCNVM. Estimated from grouped consumption data. Defined as the percentage of the population living on less than $3.00 a day at 2021 international prices.",
                 ""
               ]
             }
